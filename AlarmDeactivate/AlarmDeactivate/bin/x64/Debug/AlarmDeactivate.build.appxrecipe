@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-50UCH24</Machine>
+    <Machine>LAPTOP-2JN6HM2E</Machine>
     <WindowsUser>alan2</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,22 +10,19 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f2cb8744-26af-43e2-987d-7c7467b8bc5b</PackageIdentityName>
     <PackageIdentityPublisher>CN=alan2</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\AlarmDeactivate.exe">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\AlarmDeactivate.exe">
       <PackagePath>entrypoint\AlarmDeactivate.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alan2\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,99 +367,99 @@
     <AppxPackagedFile Include="C:\Users\alan2\.nuget\packages\System.Xml.XmlSerializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\VoiceCommands.xml">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\VoiceCommands.xml">
       <PackagePath>VoiceCommands.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\AlarmDeactivate.xr.xml">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\AlarmDeactivate.xr.xml">
       <PackagePath>AlarmDeactivate.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\Core\AlarmDeactivate.exe">
+    <AppxPackagedFile Include="C:\Users\alan2\Desktop\Practica_15\Servidor\AlarmDeactivate\AlarmDeactivate\bin\x64\Debug\Core\AlarmDeactivate.exe">
       <PackagePath>AlarmDeactivate.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.24920.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.24920.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.24920.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.24920.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x64\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.24920.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.24920.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x86\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25507.1</Version>
+      <Version>14.0.25017.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25017.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25507.1</Version>
+      <Version>14.0.25017.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25017.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25507.1</Version>
+      <Version>14.0.25017.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25507.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25017.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>

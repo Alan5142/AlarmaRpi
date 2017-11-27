@@ -1,0 +1,1 @@
+C:\Users\alan2\Documents\Visual Studio 2017\Projects\AlarmDeactivate\AlarmDeactivate\AlarmDeactivate.csproj;x86

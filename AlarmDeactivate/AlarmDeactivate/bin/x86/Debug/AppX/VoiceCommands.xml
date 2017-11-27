@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  
+    <CommandSet xml:lang="es-mx" Name="VD_es-mx">
+      <AppName> Alarma Inteligente </AppName>
+      <Example> Apagar la alarma </Example>
+
+
+      <Command Name="alarmOff">
+        <Example> encender las luces </Example>
+        <ListenFor RequireAppName="BeforePhrase"> Apaga [la] alarma</ListenFor>
+        <ListenFor RequireAppName="BeforePhrase"> Apagar [la] alarma</ListenFor>
+        <ListenFor RequireAppName="BeforePhrase"> Apagala</ListenFor>
+        <Feedback> Apagando la alarma </Feedback>
+        <Navigate/>
+      </Command>
+
+    </CommandSet>
+  
+</VoiceCommands>

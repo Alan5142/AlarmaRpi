@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     "UAP,Version=v10.0.10586": {
       "Microsoft.CSharp/4.0.1": {
@@ -5000,6 +5000,9 @@
       },
       "runtime.win10-arm-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
+        "compile": {
+          "runtimes/win10-arm-aot/lib/netcore50/_._": {}
+        },
         "runtime": {
           "runtimes/win10-arm-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -9552,6 +9555,9 @@
       },
       "runtime.win10-x64-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
+        "compile": {
+          "runtimes/win10-x64-aot/lib/netcore50/_._": {}
+        },
         "runtime": {
           "runtimes/win10-x64-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -14110,6 +14116,9 @@
       },
       "runtime.win10-x86-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
+        "compile": {
+          "runtimes/win10-x86-aot/lib/netcore50/_._": {}
+        },
         "runtime": {
           "runtimes/win10-x86-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -16029,7 +16038,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/5.2.3": {
-      "sha512": "xsOO1wxNtqhPdYoNfI96fTG9xrECOqBmqwVbarRuQinQ+sZKSI604Bi2S2cPHHAogHwbs3Lzgooi5KYffvOlpQ==",
+      "sha512": "j9TvGPvxH42R7hZ4AzhSO7WdWWbDxtw69RbM2YzV2wAOnUf8MHRv3DTRT1oV0amPW779/HLr7YJuRF6QByaOAA==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/5.2.3",
       "files": [
@@ -22006,21 +22015,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\alan2\\Documents\\Visual Studio 2017\\Projects\\AlarmDeactivate\\AlarmDeactivate\\AlarmDeactivate.csproj",
+      "projectUniqueName": "C:\\Users\\alan2\\Desktop\\Practica_15\\Servidor\\AlarmDeactivate\\AlarmDeactivate\\AlarmDeactivate.csproj",
       "projectName": "AlarmDeactivate",
-      "projectPath": "C:\\Users\\alan2\\Documents\\Visual Studio 2017\\Projects\\AlarmDeactivate\\AlarmDeactivate\\AlarmDeactivate.csproj",
-      "projectJsonPath": "C:\\Users\\alan2\\Documents\\Visual Studio 2017\\Projects\\AlarmDeactivate\\AlarmDeactivate\\project.json",
-      "packagesPath": "C:\\Users\\alan2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alan2\\Documents\\Visual Studio 2017\\Projects\\AlarmDeactivate\\AlarmDeactivate\\obj\\",
-      "projectStyle": "ProjectJson",
-      "configFilePaths": [
-        "C:\\Users\\alan2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-      ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      }
+      "projectPath": "C:\\Users\\alan2\\Desktop\\Practica_15\\Servidor\\AlarmDeactivate\\AlarmDeactivate\\AlarmDeactivate.csproj",
+      "projectJsonPath": "C:\\Users\\alan2\\Desktop\\Practica_15\\Servidor\\AlarmDeactivate\\AlarmDeactivate\\project.json",
+      "projectStyle": "ProjectJson"
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
